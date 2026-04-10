@@ -1,6 +1,9 @@
 <h2 align="left">Olá 👋! Meu nome é Caio Porto tenho 20 anos e procuro aprendizado!</h2>
 
 ###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PortoCya&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PortoCya&layout=compact&theme=dark&hide_border=true)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PortoCya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
