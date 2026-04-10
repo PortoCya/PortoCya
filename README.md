@@ -2,14 +2,14 @@
 
 ###
 
-
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PortoCya&layout=compact&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PortoCya&show_icons=true&theme=dark&hide_border=true)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PortoCya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PortoCya&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PortoCya&layout=compact&theme=dracula&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PortoCya&show_icons=true&theme=dracula&hide_border=true)
+
 </div>
+
 
 ###
 
