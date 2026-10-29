@@ -18,7 +18,7 @@
 
 ### 🧠 Sobre Mim
 
-- 🎓 Estudante de **Ciência da Computação (5º período)**, 20 anos.
+- 🎓 Estudante de **Ciência da Computação (5º período)**, 21 anos.
 - 🛡️ Atuação prática em **Redes de Computadores, Infraestrutura e Cibersegurança**:
   - Gestão e mitigação estruturada de vulnerabilidades (**CVEs**), análise de risco e **Hardening**;
   - Segurança e gerenciamento de **Endpoints (EDR/Antivírus)** em ambientes **Linux e Windows**;
